@@ -1,8 +1,48 @@
-# React + Vite
+# Prashant_Randive-Lunacal_Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend web application built using **React**, **Vite**, **Tailwind CSS** and modern JavaScript toolchain.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
+
+This project is developed as an assignment for the Lunacal interface challenge.  
+It uses:
+
+- React (via Vite) for component-based UI  
+- Tailwind CSS for styling and responsive layout  
+- Modern JavaScript/TypeScript tooling (ESLint, PostCSS)  
+- Deployment via GitHub Pages  
+
+---
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Framework:** React with Vite  
+- **Styling:** Tailwind CSS + PostCSS  
+- **Linting/Formatting:** ESLint (and optional Prettier)  
+- **Build & Deployment:** Vite’s build system & GitHub Pages  
+
+---
+
+## ✅ Getting Started — Local Development
+
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/prashant059/propbot.git
+    cd propbot
+    ```
+
+2.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
+    
+3. **Start the Development Server:**
+   ```sh
+   npm run dev
+   ```
+4 ### Open your browser and navigate to : [Node.js](http://localhost:5173)
